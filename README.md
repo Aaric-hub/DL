@@ -12,9 +12,9 @@
     . C:/Users/DELL/Anaconda3/etc/profile.d/conda.sh
 ---------------------
 
-### To create an environment
+### To create an environment [to create an enviroment in the current working directory]
 --------------------
-    conda create --prefix ./env python=3.7 -y [to create an enviroment in the current working directory]
+    conda create --prefix ./env python=3.7 -y 
 --------------------
 
 ### To activate the environment
